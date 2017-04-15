@@ -4,7 +4,7 @@
     <title>Веб-адрес</title>
 </head>
 <body>
-<form action="guzle.php" method="post">
+<form action="robots.php" method="post">
     <p><input type="url" placeholder="Адрес сайта" name="site" required></p>
     <p><input type="submit" value="Отправить"></p>
 </form>
